@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "Description": "Dark Aurorae variant for Blur-Glassy on Plasma 6",
+        "EnabledByDefault": true,
+        "Id": "Blur-Glassy-Dark-Aurorae-6",
+        "License": "GPLv3",
+        "Name": "Blur-Glassy-Dark-Aurorae-6",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/L4ki/Blur-Glassy"
+    }
+}
