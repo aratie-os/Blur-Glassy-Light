@@ -1967,6 +1967,27 @@
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
+       y2="376.26329"
+       x2="126.25931"
+       y1="358.30017"
+       x1="126.25931"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4504"
+       xlink:href="#linearGradient4495"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter4494"
+       x="-0.020424771"
+       y="-0.012961828"
+       width="1.0408495"
+       height="1.0259237">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2438338"
+         id="feGaussianBlur4496" />
+    </filter>
+    <linearGradient
        y2="383.05389"
        x2="115.03405"
        y1="312.86578"

@@ -31,10 +31,8 @@ Image {
         if (stage == 2) {
             introAnimation.running = true;
         } else if (stage == 5) {
-            introAnimation.target = busyIndicator;
-            introAnimation.from = 1;
-            introAnimation.to = 0;
-            introAnimation.running = true;
+            outroAnimation1.running = true;
+            outroAnimation2.running = true;
         }
     }
 
@@ -151,6 +149,26 @@ Image {
         target: content
         from: 0
         to: 1
+        duration: 400
+        easing.type: Easing.InOutQuad
+    }
+
+    OpacityAnimator {
+        id: outroAnimation1
+        running: false
+        target: busyIndicator1
+        from: 1
+        to: 0
+        duration: 400
+        easing.type: Easing.InOutQuad
+    }
+
+    OpacityAnimator {
+        id: outroAnimation2
+        running: false
+        target: busyIndicator2
+        from: 1
+        to: 0
         duration: 400
         easing.type: Easing.InOutQuad
     }

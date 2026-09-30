@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "Blur-Glassy Plasma Theme",
+        "EnabledByDefault": true,
+        "Id": "Blur-Glassy",
+        "License": "GPLv3",
+        "Name": "Blur-Glassy",
+        "Version": "24.4",
+        "Website": "https://github.com/L4ki/Blur-Glassy"
+    },
+    "X-Plasma-API": "5.0"
+}

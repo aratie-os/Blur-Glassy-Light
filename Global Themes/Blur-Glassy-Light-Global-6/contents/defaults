@@ -27,4 +27,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Blur-Glassy-Solid-Aurorae-6
 
 [KSplash]
-Theme=Blur-Glassy-Splash
+Theme=Blur-Glassy-Light-Global-6
