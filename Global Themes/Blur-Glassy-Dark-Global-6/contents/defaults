@@ -8,23 +8,20 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
 
 [kdeglobals][General]
-ColorScheme=BlurGlassy
+ColorScheme=BlurGlassyDark
 
 [kdeglobals][Icons]
-Theme=Breeze-Noir-Black-Blue
+Theme=breeze-dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
 
-[Wallpaper]
-Image=Win-Light-Wallpaper
-
 [plasmarc][Theme]
-name=Blur-Glassy
+name=Blur-Glassy-Dark
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Blur-Glassy-Solid-Aurorae-6
+theme=__aurorae__svg__Blur-Glassy-Dark-Aurorae-6
 
 [KSplash]
-Theme=Blur-Glassy-Light-Global-6
+Theme=Blur-Glassy-Dark-Global-6

@@ -1,4 +1,5 @@
 {
+    "KPackageStructure": "aurorae",
     "KPlugin": {
         "Authors": [
             {
@@ -6,13 +7,16 @@
                 "Name": "l4k1"
             }
         ],
-        "Category": "",
-        "Dependencies": [
-        ],
+        "Category": "Plasma 6 Window Decorations",
+        "Description": "Blur-Glassy-Solid-Aurorae For Plasma 6",
         "EnabledByDefault": true,
         "Id": "Blur-Glassy-Solid-Aurorae-6",
         "License": "GPLv3",
         "Name": "Blur-Glassy-Solid-Aurorae-6",
-        "Version": "1.1"
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "Version": "1.1",
+        "Website": "https://github.com/L4ki/Blur-Glassy"
     }
 }

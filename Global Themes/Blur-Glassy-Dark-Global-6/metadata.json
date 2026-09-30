@@ -12,16 +12,11 @@
             "Plasma/LookAndFeel"
         ],
         "EnabledByDefault": true,
-        "Name": "Blur-Glassy-Light-Global-6",
-        "Description": "Blur-Glassy-Light-Global Theme by l4k1",
-        "Id": "Blur-Glassy-Light-Global-6",
-        "Version": "1.1",
+        "Name": "Blur-Glassy-Dark-Global-6",
+        "Description": "Dark Blur-Glassy Global Theme for Plasma 6",
+        "Id": "Blur-Glassy-Dark-Global-6",
+        "Version": "1.0",
         "License": "GPLv3",
         "Website": "https://github.com/L4ki/Blur-Glassy"
-    },
-    "X-KPackage-Dependencies": [
-        "kns://colorschemes.knsrc/api.kde-look.org/1306011",
-        "kns://icons.knsrc/api.kde-look.org/1361471",
-        "kns://wallpaper.knsrc/api.kde-look.org/1994278"
-    ]
+    }
 }
